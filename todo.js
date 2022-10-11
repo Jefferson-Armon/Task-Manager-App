@@ -1,5 +1,5 @@
 const todos = [{
-    text: 'Order cat food',
+    text: 'Study JS',
     completed: false
 }, {
     text: 'Clean kitchen',
